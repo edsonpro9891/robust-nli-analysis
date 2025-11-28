@@ -33,7 +33,7 @@ Instead of making the model larger, I improved the data quality.
 
 ### 📄 Full Research Paper
 For a deep dive into the methodology and error analysis, please read the full report:
-[📄 **Download Full PDF Report**](./Mitigating_Hypothesis_Only_Artifacts.pdf)
+[📄 **Download Full PDF Report**](Mitigating_Hypothesis_Only_Artifacts.pdf)
 
 ### Code
 `filter_dataset.py` – custom filtering logic using the hypothesis-only model as a bias probe  
